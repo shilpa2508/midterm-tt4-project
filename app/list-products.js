@@ -1,3 +1,5 @@
+import './global.js';
+
 const products = [
     { image: "assets/images/product1.jpg", title: "Product 1", description: "Short description 1", price: "$10" },
     { image: "assets/images/product2.jpg", title: "Product 2", description: "Short description 2", price: "$12" },
